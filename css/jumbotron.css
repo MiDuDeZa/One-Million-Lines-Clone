@@ -1,0 +1,42 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.navbar{
+	background-color: #FFF;
+	font-weight: 400;
+	border-bottom: 1px solid #CCC;
+}
+.navbar a:hover{
+	color: #9d9d9d;
+}
+#form-control{
+	width: 300%;
+	border-radius: 20px;
+}
+
+
+
+
+footer{
+	
+}
+
+/* Responsive*/
+@media (max-width: 1190px) { 
+
+	
+}
+
+@media (max-width: 991px) { 
+
+	
+}
+
+@media (max-width: 767px) { 
+
+	
+}
+
